@@ -1,4 +1,4 @@
-# ecommerce
+# ecommerce-catalog
 
 This is my Final Task Submission for Virtual Internship Exprerience Rakamin Academy at Core Initiative
 
@@ -17,17 +17,14 @@ design remains UX friendly. The loader can be a spinner
 
 ## Project setup
 ```
-npm install
-```
+# install dependencies
+$ npm install
 
-# Compiles and hot-reloads for development
-```
-npm run serve
-```
+# serve with hot reload
+$ npm run dev
 
-# Compiles and minifies for production
-```
-npm run build
+# build for production and launch server
+$ npm run build
 ```
 
 ### Customize configuration
